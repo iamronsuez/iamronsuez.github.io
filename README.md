@@ -9,7 +9,7 @@ I am an agile Web Developer who is passionate about working with Software as a S
 
 I'm a proficient full stack developer and entrepreneur enthusiast, since a young age I was fascinated about computers, software and systems, at the age of 16  I started my bachelor of Informatic Engineering at [UCAB Guayana](http://guayanaweb.ucab.edu.ve/), I learned about algorithms, problem abstraction and programming in general.
 
-At the age of 20 I started to work on the Internet field programming several web development projects using platforms like [upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550), that opportunity crafted my experience working remotely using a foreign language with people from around the world, since there I've been looking for the best tools and approaches to solve any kind of problems using the computer science technologies. 
+At the age of 20 I started to work on the Internet field programming several web development projects using platforms like [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550), that opportunity crafted my experience working remotely using a foreign language with people from around the world, since there I've been looking for the best tools and approaches to solve any kind of problems using the computer science technologies. 
 
 Today, i'm still eager to build new things, meet great people, develop ideas and solve people's problems. 
 
@@ -51,7 +51,7 @@ I've working as a remote freelancer developer for a Canadian contractor building
 
 ### 2015-2016
 
-I've worked as a Backend Developer [LCC Opentech](http://lccopen.tech/) obtaining strong experience in several techonology areas, agile development and team managment, I met awesome team members [Daniel Iturrizaes] (https://github.com/diturriza), [José Cols](https://github.com/josecols), [Nader Abu](https://github.com/naderst)
-among others guys who can serve as references :).
+I've worked as a Backend Developer [LCC Opentech](http://lccopen.tech/) obtaining strong experience in several techonology areas, agile development and team managment, I met awesome team members like [Daniel Iturriza](https://github.com/diturriza), [José Cols](https://github.com/josecols), [Nader Abu](https://github.com/naderst)
+among others guys who can serve as personal references  :).
 
 ### Links
