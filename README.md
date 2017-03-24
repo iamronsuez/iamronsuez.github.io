@@ -105,3 +105,4 @@ Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b
 
 ## Contact
   * email: rsuez93@gmail.com
+  * telegram: [Contact Link](https://t.me/ronsuez)
