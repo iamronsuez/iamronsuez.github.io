@@ -77,12 +77,12 @@ Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b
  I'm always updating my tooling expertise, besides my personal github account I've created a small organisation at github [Llovizna Labs](https://github.com/orgs/llovizna-labs/dashboard) the following links are related to small projects some of them finished and some of them in progress.
  
  * [Marvel API Node.js Wrapper / Marvel Universe explorer React Native app.]()
- * [Golang REST todo API](https://github.com/llovizna-labs/go-rest-todo-api)
- * [El Cinaro admin page](https://github.com/llovizna-labs/elcinaro-admin)
- * [El Cinaro Backend](https://github.com/llovizna-labs/elcinaro-backend)
- * [Sample Store for IOS](https://github.com/llovizna-labs/sample-ios-store)
- * [Meals Finder app using React Native](https://github.com/llovizna-labs/meals-finder)
- * [Worker API for retrive Instagram Posts written in RoR and Grape framework](https://github.com/ronsuez/socialmonster-api)
+ * [Golang REST todo API](https://github.com/llovizna-labs/go-rest-todo-api) A Golang Application.
+ * [El Cinaro admin page](https://github.com/llovizna-labs/elcinaro-admin) an Angularjs / Angular Material app.
+ * [El Cinaro Backend](https://github.com/llovizna-labs/elcinaro-backend) a Django REST Framework app.
+ * [Sample Store for IOS](https://github.com/llovizna-labs/sample-ios-store) a Swift application.
+ * [Meals Finder app](https://github.com/llovizna-labs/meals-finder) an app written using React Native.
+ * [Worker API for retrive Instagram Posts](https://github.com/ronsuez/socialmonster-api) an app written in RoR and Grape framework.
 ## Miscelanea
 
  I have several hobbies, I like to read political, historic and entreprenourship books, I use the english language at professional work but I also like to learn several languages like french (vous pouvez lire un petit texte de présentation sur moi [ici]( https://docs.google.com/document/d/1FUxbFNQj1PqXJ48bnaP9ASxDSl4DKmcNCzL1WP7hcGA/edit?usp=sharing) ), I also like to watch several science youtube channels.
@@ -92,6 +92,7 @@ Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b
 
 
  * [Github](https://github.com/ronsuez) I've several projects there, give them a look.
+ * [Gist](https://gist.github.com/ronsuez/public) I've several snippets there which can make you an idea of what I've been working on.
  * [LinkedIn](https://www.linkedin.com/in/ronaldsuez/) for those job hunters who are always looking for nice professionals.
  * [Quora](https://www.quora.com/profile/Ronald-Suez) I've several answers there, give them some likes :)
  * [Twitter](https://twitter.com/Ronsuez)
