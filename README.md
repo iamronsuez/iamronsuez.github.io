@@ -48,7 +48,7 @@ I attended to the [Caracas Startup Weekend Event](http://www.up.co/communities/v
 
 I've working as a remote freelancer developer for a Canadian contractor building [AnyDayBuddy](https://staging.anydaybuddy.com/), my current role is about to serve as programmer / technical leader for the core team, helping in frontend, backend, mobile and devops areas.
 
-* Technologies: angularJs, nodejs using (Sails.js) , ionicV1 framework, OneSignal push notifications, Branch.io for deeplinking, Atatus for error logging,  MongoDB, pm2, deploybot, Amazon AWS including S3, EC2, route53 and Cloudfront. 
+* Technologies: angularJs, nodejs using (Sails.js) , ionicV1 framework, OneSignal push notifications, Branch.io for deeplinking, Atatus for error logging,  Cloudinary for image storage and transformation, MongoDB, pm2, deploybot, Amazon AWS including S3, EC2, route53 and Cloudfront. 
 
 ### 2014 - 2016
 
@@ -67,12 +67,23 @@ Web developer intern at [Andrade Gutierrez - Siderurgica Nacional Jose Ignacio A
 
 * Technologies: JQuery and CakePHP. 
 
-### 2015-2012
+### 2015 - 2012
 
 Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550) in several projects for remote contractors, former freenlacer for local projects at the university and my community.
 * Technologies: angularJs, nodeJs, Laravel, CodeIgniter, CakePHP, Ruby and Rails.
 
-### Miscelanea
+
+## Projects
+ I'm always updating my tooling expertise, besides my personal github account I've created a small organisation at github [Llovizna Labs](https://github.com/orgs/llovizna-labs/dashboard) the following links are related to small projects some of them finished and some of them in progress.
+ 
+ * [Marvel API Node.js Wrapper / Marvel Universe explorer React Native app.]()
+ * [Golang REST todo API](https://github.com/llovizna-labs/go-rest-todo-api)
+ * [El Cinaro admin page](https://github.com/llovizna-labs/elcinaro-admin)
+ * [El Cinaro Backend](https://github.com/llovizna-labs/elcinaro-backend)
+ * [Sample Store for IOS](https://github.com/llovizna-labs/sample-ios-store)
+ * [Meals Finder app using React Native](https://github.com/llovizna-labs/meals-finder)
+ * [Worker API for retrive Instagram Posts written in RoR and Grape framework](https://github.com/ronsuez/socialmonster-api)
+## Miscelanea
 
  I have several hobbies, I like to read political, historic and entreprenourship books, I use the english language at professional work but I also like to learn several languages like french (vous pouvez lire un petit texte de présentation sur moi [ici]( https://docs.google.com/document/d/1FUxbFNQj1PqXJ48bnaP9ASxDSl4DKmcNCzL1WP7hcGA/edit?usp=sharing) ), I also like to watch several science youtube channels.
 
