@@ -40,7 +40,9 @@ At  [UCAB](http://guayanaweb.ucab.edu.ve/descripcion-de-la-academia.html), I att
 
 I attended to the [Caracas Startup Weekend Event](http://www.up.co/communities/venezuela/caracas/?lang=es) several times crafting my abilities in entreprenourship, startup science and business models.
 
+### Work Magnament
 
+I often use Slack, Trello, Jira among other tools for project management.
 
 ## Work
 
