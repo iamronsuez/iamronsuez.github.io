@@ -80,6 +80,7 @@ Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b
  * [Golang REST todo API](https://github.com/llovizna-labs/go-rest-todo-api) A Golang Application.
  * [El Cinaro admin page](https://github.com/llovizna-labs/elcinaro-admin) an Angularjs / Angular Material app.
  * [El Cinaro Backend](https://github.com/llovizna-labs/elcinaro-backend) a Django REST Framework app.
+ * [AngularJs/ Gulp Stack](https://github.com/llovizna-labs/stack-angularjs) a boilerplate for angularJs apps.
  * [Stock changes notifier BTC/ VEF](https://github.com/llovizna-labs/stock-changes-notifier) a Node.js app.
  * [Sample Store for IOS](https://github.com/llovizna-labs/sample-ios-store) a Swift application.
  * [Meals Finder app](https://github.com/llovizna-labs/meals-finder) an app written using React Native.
@@ -100,5 +101,5 @@ Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b
  * [Spotify](https://open.spotify.com/user/rsuez93)
  * [Instagram](https://www.instagram.com/ronsuez/)
 
- ### Contact
+## Contact
   * email: rsuez93@gmail.com
