@@ -49,26 +49,41 @@ I attended to the [Caracas Startup Weekend Event](http://www.up.co/communities/v
 
 I've working as a remote freelancer developer for a Canadian contractor building [AnyDayBuddy](https://staging.anydaybuddy.com/), my current role is about to serve as programmer / technical leader for the core team, helping in frontend, backend, mobile and devops areas.
 
+* Technologies: angularJs, nodejs using (Sails.js) , ionicV1 framework, OneSignal push notifications, Branch.io for deeplinking, Atatus for error logging,  MongoDB, pm2, deploybot, Amazon AWS including S3, EC2, route53 and Cloudfront. 
+
 ### 2014 - 2016
 
 I've worked as a Backend Developer [LCC Opentech](http://lccopen.tech/) obtaining strong experience in several techonology areas, agile development and team managment, I met awesome team members like [Daniel Iturriza](https://github.com/diturriza), [José Cols](https://github.com/josecols), [Nader Abu](https://github.com/naderst)
 among others guys who can serve as personal references  :).
 
+* Technologies: angularJs, Django REST framework, Amazon aws including    S3, EC2, route53. 
+
 ### May - Aug 2014
 Frontend developer at [4Geeks](https://www.4geeks.co/es/inicio/)
+* Technologies: Bootstrap, Sass.
+
 
 ### Feb - May 2014
 Web developer intern at [Andrade Gutierrez - Siderurgica Nacional Jose Ignacio Abreú e Lima](), I've worked at the Human Resources division, developing a web application system to the Personal's assitance and access control.
 
+* Technologies: JQuery and CakePHP. 
 
 ### 2015-2012
 
 Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550) in several projects for remote contractors, former freenlacer for local projects at the university and my community.
+* Technologies: angularJs, nodeJs, Laravel, CodeIgniter, CakePHP, Ruby and Rails.
 
 ### Miscelanea
- I have several hobbies, i like to read political and historic books, entreprenourship 
- * [LinkedIn](https://www.linkedin.com/in/ronaldsuez/)
- * [Github](lin)
- * [Twitter]()
- * [Quora](https://www.quora.com/profile/Ronald-Suez)
- 
+
+ I have several hobbies, I like to read political, historic and entreprenourship books, I use the english language at professional work but I also like to learn several languages like french (vous pouvez lire un petit texte de présentation sur moi [ici]( https://docs.google.com/document/d/1FUxbFNQj1PqXJ48bnaP9ASxDSl4DKmcNCzL1WP7hcGA/edit?usp=sharing) ), I also like to watch several science youtube channels.
+
+
+
+
+
+ * [Github](https://github.com/ronsuez) I've several projects there, give them a look.
+ * [LinkedIn](https://www.linkedin.com/in/ronaldsuez/) for those job hunters who are always looking for nice professionals.
+ * [Quora](https://www.quora.com/profile/Ronald-Suez) I've several answers there, give them some likes :)
+ * [Twitter](https://twitter.com/Ronsuez)
+ * [Spotify](https://open.spotify.com/user/rsuez93)
+ * [Instagram](https://www.instagram.com/ronsuez/)
