@@ -1,4 +1,3 @@
-# Ronald Suez / A guy who thinks before code.
 
 ### Resume
 
