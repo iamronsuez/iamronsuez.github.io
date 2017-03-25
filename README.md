@@ -30,7 +30,7 @@ Today i'm learning about Golang and the microservices pattern as i've developed 
 
 ### Mobile
 
-I've succesfully developed a few projects with several hybrid frameworks including phonegap and ionicv1, although i've a beginner experience in Switf / IOS today i'm turning my expertise path in this field to React Native doing several small projects for fun and learning.
+I've succesfully developed a few projects with several hybrid frameworks including phonegap and ionicv1, although i've a beginner experience in Swift / Android today i'm turning my expertise path in this field to React Native doing several small projects for fun and learning.
 
 ### Networking
 
