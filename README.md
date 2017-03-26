@@ -76,10 +76,11 @@ Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b
 
 
 ## Projects
- I'm always updating my tooling expertise, besides my personal github account I've created a small organisation at github [Llovizna Labs](https://github.com/orgs/llovizna-labs/dashboard) the following links are related to small projects some of them finished and some of them in progress.
+ I'm always updating my tooling expertise, besides my personal [github account](https://github.com/ronsuez/) I've created a small organisation at github [Llovizna Labs](https://github.com/orgs/llovizna-labs/dashboard) the following links are related to small projects some of them finished and some of them in progress.
  
- * [Marvel API Node.js Wrapper / Marvel Universe explorer React Native app.]()
- * [Golang REST todo API](https://github.com/llovizna-labs/go-rest-todo-api) A Golang Application.
+ * [Marvel API Node.js Wrapper](https://github.com/ronsuez/marvel-api-wrapper) a express Application.
+ * [Marvel Universe explorer]() a React Native app.
+ * [Golang REST todo API](https://github.com/llovizna-labs/go-rest-todo-api) a Golang Application.
  * [El Cinaro admin page](https://github.com/llovizna-labs/elcinaro-admin) an Angularjs / Angular Material app.
  * [El Cinaro Backend](https://github.com/llovizna-labs/elcinaro-backend) a Django REST Framework app.
  * [AngularJs/ Gulp Stack](https://github.com/llovizna-labs/stack-angularjs) a boilerplate for angularJs apps.
