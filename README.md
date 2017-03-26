@@ -1,7 +1,7 @@
   
 ### Resume
 
-I am an agile Web Developer, passionate about working with Software as a Service based applications, REST APIs (I love swagger) and several web application frameworks. I like to build MEAN based systems , microservices and deploying apps using Amazon Web Services or Heroku.
+I am an agile Web Developer, passionate about working with Software as a Service based applications, develop REST APIs using the best web application frameworks. I like to build MEAN based systems , microservices and deploying apps using Amazon Web Services or Heroku.
 
 
 ### About me
@@ -88,6 +88,7 @@ Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b
  * [Sample Store for IOS](https://github.com/llovizna-labs/sample-ios-store) a Swift application.
  * [Meals Finder app](https://github.com/llovizna-labs/meals-finder) an app written using React Native.
  * [Worker API for retrive Instagram Posts](https://github.com/ronsuez/socialmonster-api) an app written in RoR and Grape framework.
+ 
 ## Miscelanea
 
  I have several hobbies, I like to read political, historic and entreprenourship books, I use the english language at professional work but I also like to learn several languages like french (vous pouvez lire un petit texte de présentation sur moi [ici]( https://docs.google.com/document/d/1FUxbFNQj1PqXJ48bnaP9ASxDSl4DKmcNCzL1WP7hcGA/edit?usp=sharing) ), I also like to watch several science youtube channels.
