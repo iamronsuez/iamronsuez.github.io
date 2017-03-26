@@ -8,7 +8,7 @@ I am an agile Web Developer, passionate about working with Software as a Service
 
 I'm a proficient full stack developer and entrepreneur enthusiast, since a young age I was fascinated about computers, software and systems, when I was 16 I started my bachelor of Informatic Engineering at [UCAB Guayana](http://guayanaweb.ucab.edu.ve/), I learned about algorithms, problem abstraction and programming in general.
 
-When I was 20 I started to work on the Internet field programming several web development projects using platforms like [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550), that opportunity crafted my experience working remotely using a foreign language with people from around the world, since there I've been looking for the best tools and approaches to solve any kind of problems using the computer science technologies. 
+When I was 20 I started to work on the Internet field programming several web development projects using platforms such as [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550), that opportunity crafted my experience working remotely using a foreign language with people from around the world, since there I've been looking for the best tools and approaches to solve any kind of problems using the computer science technologies. 
 
 Today, i'm still eager to build new things, meet great people, develop ideas and generate better solutions to the people. 
 
@@ -54,7 +54,7 @@ I've working as a remote freelancer developer for a Canadian contractor building
 
 ### 2014 - 2016
 
-I've worked as a Backend Developer [LCC Opentech](http://lccopen.tech/) obtaining strong experience in several techonology areas, agile development and team managment, I met awesome team members like [Daniel Iturriza](https://github.com/diturriza), [José Cols](https://github.com/josecols), [Nader Abu](https://github.com/naderst)
+I've worked as a Backend Developer [LCC Opentech](http://lccopen.tech/) obtaining strong experience in several techonology areas, agile development and team managment, I met awesome team members like [Daniel Iturriza](https://github.com/diturriza), [José Cols](https://github.com/josecols), [Nader Abu](https://github.com/naderst), [Robert Bevilacqua](https://github.com/RBevilacqua)
 among others guys who can serve as personal references  :).
 
 * Technologies: angularJs, Django REST framework, Amazon aws including    S3, EC2, route53. 
