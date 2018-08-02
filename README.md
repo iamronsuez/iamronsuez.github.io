@@ -6,7 +6,7 @@ I am an agile Software Developer, passionate about working with Software as a Se
 
 ### About me
 
-I'm a proficient full stack developer and entrepreneur enthusiast, since a young age I was fascinated about computers, software and systems, at the age of 16 I started my bachelor of Informatic Engineering at [UCAB Guayana](http://guayanaweb.ucab.edu.ve/), back then I started to learn about algorithms, problem abstraction and programming in general. At 2012 i started my professional career working as a web freenlancer, later i joined several smart companies giving contributions their grow and development and in 2017 I realocated to Santiago de Chile to work for a video streaming company.
+I'm a proficient full stack developer and entrepreneur enthusiast, since a young age I was fascinated about computers, software and systems, at the age of 16 I started my bachelor of Informatic Engineering at [UCAB Guayana](http://guayanaweb.ucab.edu.ve/), back then I started to learn about algorithms, problem abstraction and programming in general. At 2012 i started my professional career working as a web freenlancer, later i joined several small companies learning a lot about programming and giving contributions to their grow and development. in 2017 I realocated to Santiago de Chile to work for a video streaming company.
 
 
 ## Work
@@ -47,7 +47,7 @@ Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b
 
 ## Miscelanea
 
- I have several hobbies, I like to read political, historic and entreprenourship books.
+ I've several hobbies, I like to read political, historic and entreprenourship books.
 
 
 ## Contact
