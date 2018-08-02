@@ -6,7 +6,7 @@ I am an agile Web Developer, passionate about working with Software as a Service
 
 ### About me
 
-I'm a proficient full stack developer and entrepreneur enthusiast, since a young age I was fascinated about computers, software and systems, at the age of 16 I started my bachelor of Informatic Engineering at [UCAB Guayana](http://guayanaweb.ucab.edu.ve/), back then I started to learn about algorithms, problem abstraction and programming in general. At 2012 i started my professional career working as a web freenlancer, later i joined several smart companies giving contributions their grow and development and in 2017 I realocated to Santiago de Chile to work for a video streaming company called [Mediastream] (https://www.mediastre.am/).
+I'm a proficient full stack developer and entrepreneur enthusiast, since a young age I was fascinated about computers, software and systems, at the age of 16 I started my bachelor of Informatic Engineering at [UCAB Guayana](http://guayanaweb.ucab.edu.ve/), back then I started to learn about algorithms, problem abstraction and programming in general. At 2012 i started my professional career working as a web freenlancer, later i joined several smart companies giving contributions their grow and development and in 2017 I realocated to Santiago de Chile to work for a video streaming company.
 
 
 ## Work
