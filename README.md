@@ -19,7 +19,7 @@ I'm a proficient full stack developer and entrepreneur enthusiast, since a young
  
 ### 2016 - 2017
 
-I worked as a remote freelancer developer for a Canadian contractor building [AnyDayBuddy](https://staging.anydaybuddy.com/), my current role is about to serve as programmer / technical leader for the core team, helping in frontend, backend, mobile and devops areas.
+I worked as a remote freelancer developer for a Canadian contractor building [AnyDayBuddy](https://staging.anydaybuddy.com/), I was a software developer part of the core team, helping in frontend, backend, mobile and devops areas.
 
 * Technologies: angularJs, nodejs using (Sails.js) , ionicV1 framework, OneSignal push notifications, Branch.io for deeplinking, Atatus for error logging,  Cloudinary for image storage and transformation, MongoDB, pm2, deploybot, Amazon AWS including S3, EC2, route53 and Cloudfront. 
 
