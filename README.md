@@ -1,63 +1,33 @@
   
 ### Resume
 
-I am an agile Web Developer, passionate about working with Software as a Service based applications, develop REST APIs using the best web application frameworks. I like to build MEAN based systems , microservices and deploying apps using Amazon Web Services or Heroku.
+I am an agile Web Developer, passionate about working with Software as a Service based applications, develop REST APIs and crafting awesome user interfaces.
 
 
 ### About me
 
-I'm a proficient full stack developer and entrepreneur enthusiast, since a young age I was fascinated about computers, software and systems, when I was 16 I started my bachelor of Informatic Engineering at [UCAB Guayana](http://guayanaweb.ucab.edu.ve/), I learned about algorithms, problem abstraction and programming in general.
+I'm a proficient full stack developer and entrepreneur enthusiast, since a young age I was fascinated about computers, software and systems, at the age of 16 I started my bachelor of Informatic Engineering at [UCAB Guayana](http://guayanaweb.ucab.edu.ve/), back then I started to learn about algorithms, problem abstraction and programming in general. At 2012 i started my professional career working as a web freenlancer, later i joined several smart companies giving contributions their grow and development and in 2017 I realocated to Santiago de Chile to work for a video streaming company called [Mediastream] (https://www.mediastre.am/).
 
-When I was 20 I started to work on the Internet field programming several web development projects using platforms such as [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550), that opportunity crafted my experience working remotely using a foreign language with people from around the world, since there I've been looking for the best tools and approaches to solve any kind of problems using the computer science technologies. 
-
-Today, i'm still eager to build new things, meet great people, develop ideas and generate better solutions to the people. 
-
-
-## Skills 
-
-
-### Frontend
-
-I have been working with angularJs for several projects, I use John Papa's Angular style guide, I use Less/Sass in order to craft beautiful interfaces,  I've used several frontend frameworks like Bootstrap, Zurb Foundation and Angular Material (this one is my favorite :D )I use gulp with several tasks for develop and production phases.
-
-Today i'm learning React and Angular in order to make better web applications using the cutting edge technologies outhere.
-
-### Backend
-
-I've worked with php, ruby, python and node.js, I turned my choice to node.js due its flexibility and usability, my normal stack is like a MEAN stack but decoupled from the Frontend, I love to build REST APIs and wrap my services around it, I've deployed production code to AWS, including hosting , domain and ssl configuration,  my web server of choice is nginx due its simplicity and its performance. 
-
-Today i'm learning about Golang and the microservices pattern as i've developed several complex backend running as a monolithic block and i want to migrate them to a more decoupled ecosystem.
-
-### Mobile
-
-I've succesfully developed a few projects with several hybrid frameworks including phonegap and ionicv1, although i've a beginner experience in Swift / Android today i'm turning my expertise path in this field to React Native doing several small projects for fun and learning.
-
-### Networking
-
-At  [UCAB](http://guayanaweb.ucab.edu.ve/descripcion-de-la-academia.html), I attended to the CCNA EXPLORATION course, completing the 4 modules succesfully.
-
-### Entrepeneourship
-
-I attended to the [Caracas Startup Weekend Event](http://www.up.co/communities/venezuela/caracas/?lang=es) several times crafting my abilities in entreprenourship, startup science and business models.
-
-### Work Magnament
-
-I often use Slack, Trello, Jira among other tools for project management.
 
 ## Work
 
-### 2016 - Today
+### May 2017 - Today
 
-I've working as a remote freelancer developer for a Canadian contractor building [AnyDayBuddy](https://staging.anydaybuddy.com/), my current role is about to serve as programmer / technical leader for the core team, helping in frontend, backend, mobile and devops areas.
+ I worked as Full Stack Developer getting involved at the core video management platform and being part of the OTT team building several websites and mobile apps for video consumption. I assumed the leadership on cutting edge projects giving technical and architectural advises in order to acomplish the company goals.
+ 
+ * Technologies: React, React Native, node.js, AWS, redis.
+ 
+### 2016 - 2017
+
+I worked as a remote freelancer developer for a Canadian contractor building [AnyDayBuddy](https://staging.anydaybuddy.com/), my current role is about to serve as programmer / technical leader for the core team, helping in frontend, backend, mobile and devops areas.
 
 * Technologies: angularJs, nodejs using (Sails.js) , ionicV1 framework, OneSignal push notifications, Branch.io for deeplinking, Atatus for error logging,  Cloudinary for image storage and transformation, MongoDB, pm2, deploybot, Amazon AWS including S3, EC2, route53 and Cloudfront. 
 
 ### 2014 - 2016
 
-I've worked as a Backend Developer [LCC Opentech](http://lccopen.tech/) obtaining strong experience in several techonology areas, agile development and team managment, I met awesome team members like [Daniel Iturriza](https://github.com/diturriza), [José Cols](https://github.com/josecols), [Nader Abu](https://github.com/naderst), [Robert Bevilacqua](https://github.com/RBevilacqua)
-among others guys who can serve as personal references  :).
+I've worked as a Backend Developer [LCC Opentech](http://lccopen.tech/) obtaining strong experience in several techonology areas, agile development and team managment, I met awesome team members like [Daniel Iturriza](https://github.com/diturriza), [José Cols](https://github.com/josecols), [Nader Abu](https://github.com/naderst), [Robert Bevilacqua](https://github.com/RBevilacqua).
 
-* Technologies: angularJs, Django REST framework, Amazon aws including    S3, EC2, route53. 
+* Technologies: angularJs, Django REST framework, Amazon aws including S3, EC2, route53. 
 
 ### May - Aug 2014
 Frontend developer at [4Geeks](https://www.4geeks.co/es/inicio/)
@@ -69,43 +39,18 @@ Web developer intern at [Andrade Gutierrez - Siderurgica Nacional Jose Ignacio A
 
 * Technologies: JQuery and CakePHP. 
 
-### 2015 - 2012
+### 2012 - 2014
 
 Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550) in several projects for remote contractors, former freenlacer for local projects at the university and my community.
 * Technologies: angularJs, nodeJs, Laravel, CodeIgniter, CakePHP, Ruby and Rails.
 
 
-## Projects
- I'm always updating my tooling expertise, besides my personal [github account](https://github.com/ronsuez/) I've created a small organisation at github [Llovizna Labs](https://github.com/orgs/llovizna-labs/dashboard) the following links are related to small projects some of them finished and some of them in progress.
- 
- * [Marvel API Node.js Wrapper](https://github.com/ronsuez/marvel-api-wrapper) a express Application.
- * [Marvel Universe explorer]() a React Native app.
- * [Golang REST todo API](https://github.com/llovizna-labs/go-rest-todo-api) a Golang Application.
- * [El Cinaro admin page](https://github.com/llovizna-labs/elcinaro-admin) an Angularjs / Angular Material app.
- * [El Cinaro Backend](https://github.com/llovizna-labs/elcinaro-backend) a Django REST Framework app.
- * [AngularJs/ Gulp Stack](https://github.com/llovizna-labs/stack-angularjs) a boilerplate for angularJs apps.
- * [BTC/ VEF price changes notifier via Slack](https://github.com/llovizna-labs/stock-changes-notifier) a Node.js app.
- * [Sample Store for IOS](https://github.com/llovizna-labs/sample-ios-store) a Swift application.
- * [Meals Finder app](https://github.com/llovizna-labs/meals-finder) an app written using React Native.
- * [Worker API for retrive Instagram Posts](https://github.com/ronsuez/socialmonster-api) an app written in RoR and Grape framework.
- 
 ## Miscelanea
 
- I have several hobbies, I like to read political, historic and entreprenourship books, I use the english language at professional work but I also like to learn several languages like french (vous pouvez lire un petit texte de présentation sur moi [ici]( https://docs.google.com/document/d/1FUxbFNQj1PqXJ48bnaP9ASxDSl4DKmcNCzL1WP7hcGA/edit?usp=sharing) ), I also like to watch several science youtube channels.
+ I have several hobbies, I like to read political, historic and entreprenourship books.
 
-
-
-
-
- * [Github](https://github.com/ronsuez) I've several projects there, give them a look.
- * [Gist](https://gist.github.com/ronsuez/public) I've several snippets there which can make you an idea of what I've been working on.
- * [LinkedIn](https://www.linkedin.com/in/ronaldsuez/) for those job hunters who are always looking for nice professionals.
- * [Quora](https://www.quora.com/profile/Ronald-Suez) I've several answers there, give them some likes :)
- * [Twitter](https://twitter.com/Ronsuez)
- * [Spotify](https://open.spotify.com/user/rsuez93)
- * [Instagram](https://www.instagram.com/ronsuez/)
 
 ## Contact
   * email: rsuez93@gmail.com
   * telegram: [Contact Link](https://t.me/ronsuez)
-  * Address: Guayana City - Venezuela
+  * Address: Santiago, Chile
