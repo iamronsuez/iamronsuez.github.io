@@ -1,7 +1,7 @@
   
 ### Resume
 
-I am an agile Web Developer, passionate about working with Software as a Service based applications, develop REST APIs and crafting awesome user interfaces.
+I am an agile Software Developer, passionate about working with Software as a Service based applications, develop APIs and craft awesome user interfaces.
 
 
 ### About me
@@ -13,7 +13,7 @@ I'm a proficient full stack developer and entrepreneur enthusiast, since a young
 
 ### May 2017 - Today
 
- I worked as Full Stack Developer getting involved at the core video management platform and being part of the OTT team building several websites and mobile apps for video consumption. I assumed the leadership on cutting edge projects giving technical and architectural advises in order to acomplish the company goals.
+ I worked as Full Stack Developer getting involved at the core video management platform and being part of the OTT team building several websites and mobile apps for video consumption. I assumed the leadership on cutting edge projects giving technical and architectural contributions in order to acomplish the company goals.
  
  * Technologies: React, React Native, node.js, AWS, redis.
  
