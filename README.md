@@ -69,7 +69,7 @@ Web developer intern at [Andrade Gutierrez - Siderurgica Nacional Jose Ignacio A
 
 * Technologies: JQuery and CakePHP. 
 
-### 2015 - 2012
+### 2012 - 2014
 
 Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550) in several projects for remote contractors, former freenlacer for local projects at the university and my community.
 * Technologies: angularJs, nodeJs, Laravel, CodeIgniter, CakePHP, Ruby and Rails.
