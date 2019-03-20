@@ -11,9 +11,13 @@ I'm a proficient full stack developer and entrepreneur enthusiast, since a young
 
 ## Work
 
-### May 2017 - Today
+### Jan 2018 - Present
 
- I work as Full Stack Developer at [Mediastream](https://www.mediastre.am/) getting involved at the core video management platform and being part of the OTT team building several websites and mobile apps for video consumption. I assumed the leadership on cutting edge projects giving technical and architectural contributions in order to acomplish the company goals.
+I work as Full Stack Developer Consultant at [Ceconsud - Jumbo Supermarket]
+
+### May 2017 - Jan 2018
+
+ I worked as Full Stack Developer at [Mediastream](https://www.mediastre.am/) getting involved at the core video management platform and being part of the OTT team building several websites and mobile apps for video consumption. I assumed the leadership on cutting edge projects giving technical and architectural contributions in order to acomplish the company goals.
  
  * Technologies: React, React Native, node.js, AWS, redis.
  
