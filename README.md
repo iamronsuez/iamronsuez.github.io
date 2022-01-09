@@ -1,4 +1,5 @@
-  
+  ![b22a5bdc78c03e6b1807dd9267c4dbf4](https://user-images.githubusercontent.com/28957938/148702766-281a8581-e053-4519-8409-55a53f640213.jpeg)
+
 ### Resume
 
 I am an agile Software Developer, passionate about working with Software as a Service based applications, develop APIs and craft awesome user interfaces.
@@ -70,7 +71,7 @@ Frontend developer at [4Geeks](https://www.4geeks.co/es/inicio/)
 
 Web developer intern at [Andrade Gutierrez - Siderurgica Nacional Jose Ignacio Abreú e Lima](), I worked at the Human Resources division, developing a web application system to the Personal's assitance and access control.
 
-**PuntoTransfer**: JQuery and CakePHP. 
+**Technologies**: JQuery and CakePHP. 
 
 ### 2012 - 2014
 
