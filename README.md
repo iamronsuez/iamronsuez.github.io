@@ -94,7 +94,7 @@ This is done through an integration between an admin site and Slack workspace wh
 
  I've several hobbies such as cycling, play videogames, travel, among others. I also like to read political, historic and entreprenourship books.
  
- **Currently reading**: [Leaders eat last](https://www.blinkist.com/en/books/leaders-eat-last-en?utm_source=gsn&utm_medium=paid&utm_campaign=15800894060&utm_content=&utm_term=___c__CjwKCAiArOqOBhBmEiwAsgeLmdoFiJ_zEPPR9OLlzf7EbRSMWIqJmGOGPpSm1Spgel383rxKKzVPExoCoCIQAvD_BwE&gclid=CjwKCAiArOqOBhBmEiwAsgeLmdoFiJ_zEPPR9OLlzf7EbRSMWIqJmGOGPpSm1Spgel383rxKKzVPExoCoCIQAvD_BwE)
+ **Currently reading**: [Leaders eat last by Simon Sinek](https://www.blinkist.com/en/books/leaders-eat-last-en?utm_source=gsn&utm_medium=paid&utm_campaign=15800894060&utm_content=&utm_term=___c__CjwKCAiArOqOBhBmEiwAsgeLmdoFiJ_zEPPR9OLlzf7EbRSMWIqJmGOGPpSm1Spgel383rxKKzVPExoCoCIQAvD_BwE&gclid=CjwKCAiArOqOBhBmEiwAsgeLmdoFiJ_zEPPR9OLlzf7EbRSMWIqJmGOGPpSm1Spgel383rxKKzVPExoCoCIQAvD_BwE)
   
 ## Contact
   * email: rsuez93@gmail.com
