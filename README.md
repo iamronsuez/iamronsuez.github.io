@@ -1,4 +1,3 @@
-  ![b22a5bdc78c03e6b1807dd9267c4dbf4](https://user-images.githubusercontent.com/28957938/148702766-281a8581-e053-4519-8409-55a53f640213.jpeg)
 
 ### Resume
 
@@ -98,7 +97,7 @@ This is done through an integration between an admin site and Slack workspace wh
  **Currently reading**: [Leaders eat last by Simon Sinek](https://www.blinkist.com/en/books/leaders-eat-last-en?utm_source=gsn&utm_medium=paid&utm_campaign=15800894060&utm_content=&utm_term=___c__CjwKCAiArOqOBhBmEiwAsgeLmdoFiJ_zEPPR9OLlzf7EbRSMWIqJmGOGPpSm1Spgel383rxKKzVPExoCoCIQAvD_BwE&gclid=CjwKCAiArOqOBhBmEiwAsgeLmdoFiJ_zEPPR9OLlzf7EbRSMWIqJmGOGPpSm1Spgel383rxKKzVPExoCoCIQAvD_BwE)
   
 ## Contact
-  * email: rsuez93@gmail.com
-  * telegram: [Contact Link](https://t.me/ronsuez)
+  * Email: rsuez93@gmail.com
+  * LinkedIn: linkedin.com/in/ronaldsuez
   * Address: Santiago, Chile
   * Phone: + 56 9 8196  4971
