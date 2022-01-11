@@ -25,6 +25,11 @@ When I entered the company, I had the chance to be a part of an unborn project f
 
 As a Backend Developer, I was part of the team in charge of connecting the site (Mercado Libre) and these banks building a gateway to their REST APIs. This gateway ables communication with all the bank REST APIs providing a unified contract to the internal services accomplishing a seamless integration within the inner parts of the site.
 
+MercadoLibre has an in-house Cloud solution that provides deployment, scaling, and metrics allows us to focus on building a quality codebase that is high efficiency and fault-tolerant. 
+
+We take quality very seriously. We have an 85% minimum testing coverage. The CI process is built on top of Github actions and Jenkins.
+
+
 **Technologies**: Java 11+, Spring framework, Spark framework, Docker.
 
 ### Jan 2019 - Nov 2019
@@ -47,7 +52,7 @@ As a Backend Developer, I built a GraphQL gateway that interconnects the admin s
 
 I came to Chile to work as a Full Stack Developer at [Mediastream](https://www.mediastre.am/), getting involved at the core video management platform and being part of the OTT team building several websites and mobile apps for video consumption. 
 
-Mediastream](https://www.mediastre.am/) is a streaming startup that offers services in several Latin American countries. Its business model is focused on providing streaming services to major media companies.
+[Mediastream](https://www.mediastre.am/) is a streaming startup that offers services in several Latin American countries. Its business model is focused on providing streaming services to major media companies.
 
 During my time at the company, I had the chance to work in a team in charge of offering a unified solution for building streaming websites and native apps. We made a Javascript engine on top of ReactJs / React Native, which produced a dynamic components tree based on a JSON structure.
 
