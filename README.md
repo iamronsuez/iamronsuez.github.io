@@ -5,7 +5,7 @@ I am an agile Software Developer, passionate about working with Software as Serv
 
 ### About me
 
-I'm a Venezuelan proficient Full-stack Developer and entrepreneur enthusiast. I was fascinated by computers, software, and systems from a young age. At 16 years old, I started my bachelor of Informatic Engineering at UCAB Guayana.
+I'm a Venezuelan proficient Full-stack Developer and entrepreneur enthusiast. I was fascinated by computers, software, and systems from a young age. At 16 years old, I started my bachelor of Informatic Engineering.
 
 Back then, I started to learn about algorithms, problem abstraction, and programming in general. In 2012 I started my professional career working as a web freelancer, and later I joined several small companies learning a lot about programming and contributing to their growth and development.
 
@@ -19,7 +19,7 @@ Software Engineer at [Mercado Libre](https://www.mercadolibre.cl/) Chile, Classi
 
 ---
 
-I work as a Semi Senior Software Engineer within the VIS division.
+I work as a **Semi Senior Software Engineer **within the VIS division.
 
 When I entered the company, I had the chance to be a part of an unborn project for offering financial services to the greater Sao Paulo area (Brazil), building an entire infrastructure to provide a convenient way of obtaining automobile monetary credits through the Mercado Libre portal. This service is provided by third-party central Brazilian banks (Itau, Votorantim, Santander).
 
@@ -34,7 +34,7 @@ We take quality very seriously. We have an 85% minimum testing coverage. The CI 
 
 ### Jan 2019 - Nov 2019
 
-Full Stack Developer Consultant at [Ceconsud - Jumbo Supermarket]
+**Full Stack Developer** Consultant at [Ceconsud - Jumbo Supermarket]
 
 ----
 
@@ -50,7 +50,7 @@ As a Backend Developer, I built a GraphQL gateway that interconnects the admin s
 
 ### May 2017 - Jan 2019
 
-I came to Chile to work as a Full Stack Developer at [Mediastream](https://www.mediastre.am/), getting involved at the core video management platform and being part of the OTT team building several websites and mobile apps for video consumption. 
+I came to Chile to work as a **Full Stack Developer** at [Mediastream](https://www.mediastre.am/), getting involved at the core video management platform and being part of the OTT team building several websites and mobile apps for video consumption. 
 
 [Mediastream](https://www.mediastre.am/) is a streaming startup that offers services in several Latin American countries. Its business model is focused on providing streaming services to major media companies.
 
@@ -65,7 +65,7 @@ Some of the current products made on top of this platform are sites like [Ondame
  
 ### 2016 - 2017
 
-I worked as a remote freelancer developer for a Canadian contractor. I was a software developer part of the core team, helping in the frontend, backend, mobile, and DevOps areas.
+I worked as a **remote freelancer developer** for a Canadian contractor. I was a software developer part of the core team, helping in the frontend, backend, mobile, and DevOps areas.
 
 We made a solution constructed on angular 1, formerly known as AnyDayBuddy. I was in charge of developing the UI and the interconnection to the  REST API built on top of the Django Rest Framework, where I also made significant contributions.
 
@@ -75,7 +75,7 @@ This project included real-time notifications, email sending, logging, and image
 
 ### 2014 - 2016
 
-I worked as a Backend Developer [LCC Opentech](http://lccopen.tech/) gaining substantial experience in several areas, agile development, and team management, I met awesome team members like [Daniel Iturriza](https://github.com/diturriza), [José Cols](https://github.com/josecols), [Nader Abu](https://github.com/naderst), [Robert Bevilacqua](https://github.com/RBevilacqua).
+I worked as a **Backend Developer** [LCC Opentech](http://lccopen.tech/) gaining substantial experience in several areas, agile development, and team management, I met awesome team members like [Daniel Iturriza](https://github.com/diturriza), [José Cols](https://github.com/josecols), [Nader Abu](https://github.com/naderst), [Robert Bevilacqua](https://github.com/RBevilacqua).
 
 At this company, I worked on several websites and administrative sites built on several technologies.
 
@@ -83,21 +83,33 @@ At this company, I worked on several websites and administrative sites built on 
 
 ### May - Aug 2014
 
-Frontend developer at [4Geeks](https://www.4geeks.co/es/inicio/)
+**Frontend developer** at [4Geeks](https://www.4geeks.co/es/inicio/)
 
 **Technologies**: Bootstrap, Sass.
 
 ### Feb - May 2014
 
-Web developer intern at [Andrade Gutierrez - Siderurgica Nacional Jose Ignacio Abreú e Lima](), I worked at the Human Resources division, developing a web application system to the Personal's assistance and access control.
+**Web developer** intern at [Andrade Gutierrez - Siderurgica Nacional Jose Ignacio Abreú e Lima](), I worked at the Human Resources division, developing a web application system to the Personal's assistance and access control.
 
 **Technologies**: JQuery and CakePHP. 
 
 ### 2012 - 2014
 
-Former freelancer via [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550) in several projects for remote contractors, former freenlacer for local projects at the university and my community.
+**Freelancer** at [Upwork](https://www.upwork.com/freelancers/~01ba4f039661b19550) 
+
+Worked in several projects for remote contractors as well for local projects at the university and my community.
 
 **Technologies**: angularJs, nodeJs, Laravel, CodeIgniter, CakePHP, Ruby and Rails.
+
+## Education
+
+### Oct 2009 - May 2014
+
+**Universidad Catolica Andres Bello**
+
+Major: Informatic Engineering
+
+Activities and Societies: IT engineering students central
 
 ## Personal Projects
 
