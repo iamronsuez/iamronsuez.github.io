@@ -19,7 +19,7 @@ Software Engineer at [Mercado Libre](https://www.mercadolibre.cl/) Chile, Classi
 
 ---
 
-I work as a **Semi Senior Software Engineer **within the VIS division.
+I work as a **Semi Senior Software Engineer** within the VIS division.
 
 When I entered the company, I had the chance to be a part of an unborn project for offering financial services to the greater Sao Paulo area (Brazil), building an entire infrastructure to provide a convenient way of obtaining automobile monetary credits through the Mercado Libre portal. This service is provided by third-party central Brazilian banks (Itau, Votorantim, Santander).
 
