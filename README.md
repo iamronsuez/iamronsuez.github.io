@@ -27,7 +27,7 @@ As a Backend Developer, I was part of the team in charge of connecting the site 
 
 MercadoLibre has an in-house Cloud solution that provides deployment, scaling, and metrics allows us to focus on building a quality codebase that is high efficiency and fault-tolerant. 
 
-We take quality very seriously. We have an 85% minimum testing coverage. The CI process is built on top of Github actions and Jenkins.
+We take quality very seriously. We have a high stardand on code testing and coverage rules. The CI process is built on top of Github actions and Jenkins.
 
 
 **Technologies**: Java 11+, Spring framework, Spark framework, Docker.
