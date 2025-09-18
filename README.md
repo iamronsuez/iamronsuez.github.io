@@ -139,7 +139,9 @@ Cisco Certified Network Associate (CCNA) - OSI Model, TCP/IP, Routing Protocols,
 
 **Founder & CTO** at [Nimbu](https://www.nimbu.cl/)
 
-As the founder and CTO of Nimbu, I'm leading the technical vision and development of our platform. Nimbu is focused on delivering innovative solutions in the Chilean market, leveraging modern technologies to create impactful products.
+As the founder and CTO of Nimbu, I'm leading the development of a comprehensive property and rental management platform designed for the Chilean real estate market. Nimbu centralizes properties, rental contracts, and payments in one place, offering automated rent collection with 0% delinquency, real-time ROI calculations, and intelligent notifications for critical events.
+
+The platform serves property owners and administrators, handling up to 100 properties with features including multi-property contract management, legal compliance tracking, and configurable notifications for all stakeholders. Our mission is to eliminate rental management errors and automate complex administrative tasks through technology.
 
 ### Punto Transfer
 
