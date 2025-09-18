@@ -1,67 +1,79 @@
 
 ### Resume
 
-I am an agile Software Developer, passionate about working with Software as Service-based applications, developing APIs, and crafting intuitive user interfaces.
+Senior Software Engineer specializing in API Integration and Distributed Systems, currently leading SEO infrastructure initiatives at Walmart Chile. Passionate about leveraging AI and data-driven strategies to build scalable solutions.
 
 ### About me
 
-I'm a Venezuelan proficient Full-stack Developer and entrepreneur enthusiast. I was fascinated by computers, software, and systems from a young age. At 16 years old, I started my bachelor of Informatic Engineering.
+I'm a Venezuelan Senior Software Engineer with expertise in distributed systems, API integration, and AI-driven solutions. Currently pursuing a Master's degree in Artificial Intelligence at UNIR while leading critical technical initiatives at Walmart Chile.
 
-Back then, I started to learn about algorithms, problem abstraction, and programming in general. In 2012 I started my professional career working as a web freelancer, and later I joined several small companies learning a lot about programming and contributing to their growth and development.
+With over 7 years of professional experience, I've worked across the tech stack - from building OTT platforms for major media companies to architecting financial services gateways for Latin America's largest e-commerce platforms. My journey began with a Bachelor's in Computer Science from Universidad Catolica Andres Bello, complemented by Cisco networking certifications.
 
-In 2017 I reallocated to Santiago, Chile, hired to work for a video streaming company. Since then, I have worked for several companies in the retail industry. I'm currently working as Semi Senior Software Engineer at a top Ecommerce Company with a presence in all of Latin America.
+In 2017 I relocated to Santiago, Chile, where I've contributed to transformative projects at companies like Mediastream, Cencosud, Mercado Libre, and now Walmart Chile. My current focus combines technical leadership with AI expertise to drive innovation in e-commerce SEO and system integration.
 
 ## Work
 
-### Dec 2019 - Present
+### March 2024 - Present
 
-Software Engineer at [Mercado Libre](https://www.mercadolibre.cl/) Chile, Classifieds Motors Division
+**Senior Software Engineer L4** at [Walmart Chile](https://www.lider.cl/)
 
 ---
 
-I work as a **Semi Senior Software Engineer** within the VIS division.
+Leading the SEO Chile team to integrate Walmart Tech International SEO infrastructure within Chile's Lider CL market during a pivotal website migration. Collaborating with cross-functional teams to ensure seamless integration and optimization of SEO strategies while implementing data-driven decision-making processes to enhance search engine visibility and drive organic traffic growth.
 
-When I entered the company, I had the chance to be a part of an unborn project for offering financial services to the greater Sao Paulo area (Brazil), building an entire infrastructure to provide a convenient way of obtaining automobile monetary credits through the Mercado Libre portal. This service is provided by third-party central Brazilian banks (Itau, Votorantim, Santander).
+### March 2022 - March 2024
 
-As a Backend Developer, I was part of the team in charge of connecting the site (Mercado Libre) and these banks building a gateway to their REST APIs. This gateway ables communication with all the bank REST APIs providing a unified contract to the internal services accomplishing a seamless integration within the inner parts of the site.
+**Expert Full Stack Developer** at [Walmart Chile](https://www.lider.cl/)
 
-MercadoLibre has an in-house Cloud solution that provides deployment, scaling, and metrics allows us to focus on building a quality codebase that is high efficiency and fault-tolerant. 
+---
 
-We take quality very seriously. We have a high stardand on code testing and coverage rules. The CI process is built on top of Github actions and Jenkins.
+Developed a tracking wrapper using GA and Google Tag Manager to analyze user behavior data for the Data e-commerce team. Led a team migrating a web chatbot app, enhancing scalability and extensibility for new chatbots.
 
+### February 2023 - March 2024
 
-**Technologies**: Java 11+, Spring framework, Spark framework, Docker.
+**Founding Software Engineer** at Fraccional
 
-### Jan 2019 - Nov 2019
+---
 
-**Full Stack Developer** Consultant at [Ceconsud - Jumbo Supermarket]
+Collaborated with the CTO to develop the app platform and integrate third-party services for mailing, payment flow, and legal document generation. Constructed the main analytics dashboard and administered the site for property management and customer support.
 
-----
+### August 2021 - February 2022
 
-I was part of the team in charge of the Jumbo Picking App project (currently known as [spid365](https://spidchile.cl/)).
+**Semi Senior Software Engineer** at [Mercado Libre](https://www.mercadolibre.cl/)
 
-The site provides an admin interface to manage orders' fulfillment and shoppers' management at the supermarkets. The site enables supervisors to interact with all the services within the Picking Ecosystem providing a clean and intuitive interface.
+---
 
-As a Frontend developer, I was in charge of constructing the building blocks of the admin site, taking into account the admin UI design and implementation and the integration to the respective REST APIs that feed the administrative system.
+Streamlined implementation times for newcomer banks by refactoring Bank API architecture, reducing times by 60%. Mentored development teams from Colombia and Brazil, cutting implementation times by 30% for API integration with local banks.
 
-As a Backend Developer, I built a GraphQL gateway that interconnects the admin site to all the microservices within the IT ecosystem built for the project.
+### December 2019 - August 2021
 
-**Technologies**: Javascript, Node, GraphQL, ReactJS, Sass Docker.
+**Software Engineer** at [Mercado Libre](https://www.mercadolibre.cl/)
 
-### May 2017 - Jan 2019
+---
 
-I came to Chile to work as a **Full Stack Developer** at [Mediastream](https://www.mediastre.am/), getting involved at the core video management platform and being part of the OTT team building several websites and mobile apps for video consumption. 
+Designed and implemented Java, SpringBoot architecture to integrate Banks APIs to Mercado Libre's sites. Added abstract models to API Core, reducing implementation times for new bank APIs from other regions. Contributed to building the initiative from ground zero to production in seven months.
 
-[Mediastream](https://www.mediastre.am/) is a streaming startup that offers services in several Latin American countries. Its business model is focused on providing streaming services to major media companies.
+**Technologies**: Java 11+, SpringBoot, Docker.
 
-During my time at the company, I had the chance to work in a team in charge of offering a unified solution for building streaming websites and native apps. We made a Javascript engine on top of ReactJs / React Native, which produced a dynamic components tree based on a JSON structure.
+### February 2019 - November 2019
 
-This rendered tree is fed by a GraphQL engine that provides the dynamic data generated as UI components. I assumed the leadership on cutting-edge challenges giving technical and architectural contributions to the project goals.
+**Full Stack Developer** at [Cencosud S.A.](https://www.cencosud.com/)
 
-Some of the current products made on top of this platform are sites like [Ondamedia](https://ondamedia.cl/), [TVN Play](https://www.tvnplay.cl/) among others.
+---
 
- 
-**Technologies**: React, React Native, node.js, GraphQL, AWS, redis.
+Developed and maintained a library of components for a Next.js site, integrating with a GraphQL API. Contributed to building a back-office system for the Jumbo fulfillment process for online stores.
+
+**Technologies**: Next.js, GraphQL, React.js, Node.js.
+
+### May 2017 - January 2019
+
+**Full Stack Developer** at [Mediastream SpA](https://www.mediastre.am/)
+
+---
+
+Contributed to the construction of OTT sites for major media companies in LATAM. Reduced development times by 40% for OTT applications using React.js and React Native. Collaborated with core team to create an agnostic builder for web and mobile apps.
+
+**Technologies**: React, React Native, Node.js, GraphQL, AWS, Redis.
  
 ### 2016 - 2017
 
@@ -103,13 +115,23 @@ Worked in several projects for remote contractors as well for local projects at 
 
 ## Education
 
-### Oct 2009 - May 2014
+### October 2023 - September 2025
+
+**UNIR - Universidad Internacional de La Rioja**
+
+Master's degree in Artificial Intelligence
+
+### 2009 - 2017
 
 **Universidad Catolica Andres Bello**
 
-Major: Informatic Engineering
+Bachelor's degree in Computer and Information Sciences and Support Services
 
-Activities and Societies: IT engineering students central
+### 2012 - 2013
+
+**Cisco Networking Academy**
+
+Cisco Certified Network Associate (CCNA) - OSI Model, TCP/IP, Routing Protocols, WAN, Wireless, Networks & Telecommunications
 
 ## Personal Projects
 
@@ -131,8 +153,21 @@ Technologies utilized in this project include NodeJS, Strapi, Pipedream, and Sla
  
  **Currently reading**: [Leaders eat last by Simon Sinek](https://www.blinkist.com/en/books/leaders-eat-last-en?utm_source=gsn&utm_medium=paid&utm_campaign=15800894060&utm_content=&utm_term=___c__CjwKCAiArOqOBhBmEiwAsgeLmdoFiJ_zEPPR9OLlzf7EbRSMWIqJmGOGPpSm1Spgel383rxKKzVPExoCoCIQAvD_BwE&gclid=CjwKCAiArOqOBhBmEiwAsgeLmdoFiJ_zEPPR9OLlzf7EbRSMWIqJmGOGPpSm1Spgel383rxKKzVPExoCoCIQAvD_BwE)
   
+## Skills
+
+**Core Competencies**: Software Infrastructure, API Integration, Distributed Systems, SEO, Data-driven Decision Making
+
+**Languages**: Spanish (Native), English (C2 Proficient - EF SET Certificate 75/100)
+
+**Certifications**:
+- EF SET English Certificate 75/100 (C2 Proficient)
+- Introduction to SQL for BigQuery and Cloud SQL
+- Duolingo English Fluency: Advanced
+- Cisco Certified Network Associate (CCNA)
+
 ## Contact
   * Email: rsuez93@gmail.com
-  * LinkedIn: linkedin.com/in/ronaldsuez
-  * Address: Santiago, Chile
-  * Phone: + 56 9 8196  4971
+  * LinkedIn: [linkedin.com/in/ronaldsuez](https://www.linkedin.com/in/ronaldsuez)
+  * Portfolio: [iamronsuez.github.io](https://iamronsuez.github.io/)
+  * Address: Santiago Metropolitan Area, Chile
+  * Phone: +56 9 8296 4971
