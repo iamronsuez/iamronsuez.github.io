@@ -135,6 +135,12 @@ Cisco Certified Network Associate (CCNA) - OSI Model, TCP/IP, Routing Protocols,
 
 ## Personal Projects
 
+### Nimbu
+
+**Founder & CTO** at [Nimbu](https://www.nimbu.cl/)
+
+As the founder and CTO of Nimbu, I'm leading the technical vision and development of our platform. Nimbu is focused on delivering innovative solutions in the Chilean market, leveraging modern technologies to create impactful products.
+
 ### Punto Transfer
 
 Like many Venezuelans, I found myself in need to send money to my family, and due to the economic blockages in my country, I had to resort to alternative mechanisms to send monthly remittances.
